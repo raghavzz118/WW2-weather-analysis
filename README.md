@@ -1,1 +1,1 @@
-## This project predicts maximum temperature (MaxTemp) using historical WW2 weather data. The workflow covers end-to-end data analytics: data cleaning, feature engineering, model training and evaluation, and an interactive Power BI dashboard for better insights.##
+## This project predicts maximum temperature (MaxTemp) using historical WW2 weather data. The workflow covers end-to-end data analytics: data cleaning, feature engineering, model training and evaluation, and an interactive Power BI dashboard for better insights.
