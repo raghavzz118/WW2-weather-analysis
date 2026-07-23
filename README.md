@@ -8,8 +8,7 @@ An end-to-end data science and analytics project analyzing historical World War 
 
 > *Visualizing weather trends, stations, and predictive insights across historical WW2 data.*
 
-![Power BI Dashboard Overview](Dashboard\PowerBI_Dashboard.png) 
-*(Replace `Dashboard/dashboard_screenshot.png` with the actual path or URL to your dashboard image)*
+![Power BI Dashboard Overview](Dashboard/PowerBI_Dashboard.png) 
 
 ---
 
