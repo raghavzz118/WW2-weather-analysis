@@ -1,1 +1,26 @@
-## This project predicts maximum temperature (MaxTemp) using historical WW2 weather data. The workflow covers end-to-end data analytics: data cleaning, feature engineering, model training and evaluation, and an interactive Power BI dashboard for better insights.
+# World War II Weather Analysis & Temperature Prediction
+
+An end-to-end data science and analytics project analyzing historical World War II weather station data to predict maximum temperatures (**MaxTemp**) and deliver key weather insights through an interactive dashboard.
+
+---
+
+## Dashboard Preview
+
+> *Visualizing weather trends, stations, and predictive insights across historical WW2 data.*
+
+![Power BI Dashboard Overview](Dashboard\PowerBI_Dashboard.png) 
+*(Replace `Dashboard/dashboard_screenshot.png` with the actual path or URL to your dashboard image)*
+
+---
+
+## Project Overview
+
+This project focuses on modeling historical weather data recorded during World War II. The primary objective is to predict maximum daily temperatures based on atmospheric conditions and historical measurements. 
+
+### Key Workflow Steps:
+1. **Data Cleaning & Preprocessing:** Handling missing values, removing outliers, and structuring temporal features.
+2. **Feature Engineering:** Creating relevant features to enhance predictive performance.
+3. **Model Training & Evaluation:** Implementing regression algorithms to accurately predict `MaxTemp`.
+4. **Interactive Visualization:** Building a Power BI dashboard for intuitive data exploration.
+
+---
